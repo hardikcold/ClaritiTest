@@ -3,6 +3,6 @@ Using design and development tools, languages, and techniques you are most famil
 
 
 1. main
-  *Application.java* contains main class to run which will execute and give output for *"Human Resources"* Category. You can modify the input directly from file. (Pending to implement user input from console)
+  **Application.java** contains main class to run which will execute and give output for **"Human Resources"** Category. You can modify the input directly from file. (Pending to implement user input from console)
 2. test
   I've tried to cover most of the test cases. 
